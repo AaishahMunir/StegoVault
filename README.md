@@ -228,10 +228,8 @@ Before running the project, make sure the following are installed:
 Open a terminal and run:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/stegovault.git
+git clone https://github.com/AaishahMunir/stegovault.git
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 Move into the project folder:
 
