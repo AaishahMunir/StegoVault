@@ -1,0 +1,12 @@
+# Compiled programs
+*.exe
+StegoVault
+test_stego
+*.o
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local VS Code settings
+.vscode/
